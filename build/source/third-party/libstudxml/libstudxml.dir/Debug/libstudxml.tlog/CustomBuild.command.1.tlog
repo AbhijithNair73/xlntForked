@@ -1,0 +1,10 @@
+^D:\ONEDRIVE - TALLY SOLUTIONS PVT. LTD\DESKTOP\PERSONAL\XLNT\XLNT\THIRD-PARTY\LIBSTUDXML.BUILD\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SD:/OneDrive - Tally Solutions Pvt. Ltd/Desktop/personal/xlnt/xlnt" "-BD:/OneDrive - Tally Solutions Pvt. Ltd/Desktop/personal/xlnt/xlnt/build" --check-stamp-file "D:/OneDrive - Tally Solutions Pvt. Ltd/Desktop/personal/xlnt/xlnt/build/source/third-party/libstudxml/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

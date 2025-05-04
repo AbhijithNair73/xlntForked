@@ -1,0 +1,13 @@
+D:/OneDrive - Tally Solutions Pvt. Ltd/Desktop/personal/xlnt/xlnt/build/CMakeFiles/RUN_TESTS.dir
+D:/OneDrive - Tally Solutions Pvt. Ltd/Desktop/personal/xlnt/xlnt/build/CMakeFiles/INSTALL.dir
+D:/OneDrive - Tally Solutions Pvt. Ltd/Desktop/personal/xlnt/xlnt/build/CMakeFiles/ALL_BUILD.dir
+D:/OneDrive - Tally Solutions Pvt. Ltd/Desktop/personal/xlnt/xlnt/build/CMakeFiles/ZERO_CHECK.dir
+D:/OneDrive - Tally Solutions Pvt. Ltd/Desktop/personal/xlnt/xlnt/build/source/CMakeFiles/xlnt.dir
+D:/OneDrive - Tally Solutions Pvt. Ltd/Desktop/personal/xlnt/xlnt/build/source/CMakeFiles/uninstall.dir
+D:/OneDrive - Tally Solutions Pvt. Ltd/Desktop/personal/xlnt/xlnt/build/source/CMakeFiles/RUN_TESTS.dir
+D:/OneDrive - Tally Solutions Pvt. Ltd/Desktop/personal/xlnt/xlnt/build/source/CMakeFiles/INSTALL.dir
+D:/OneDrive - Tally Solutions Pvt. Ltd/Desktop/personal/xlnt/xlnt/build/source/CMakeFiles/ALL_BUILD.dir
+D:/OneDrive - Tally Solutions Pvt. Ltd/Desktop/personal/xlnt/xlnt/build/source/third-party/libstudxml/CMakeFiles/libstudxml.dir
+D:/OneDrive - Tally Solutions Pvt. Ltd/Desktop/personal/xlnt/xlnt/build/source/third-party/libstudxml/CMakeFiles/RUN_TESTS.dir
+D:/OneDrive - Tally Solutions Pvt. Ltd/Desktop/personal/xlnt/xlnt/build/source/third-party/libstudxml/CMakeFiles/INSTALL.dir
+D:/OneDrive - Tally Solutions Pvt. Ltd/Desktop/personal/xlnt/xlnt/build/source/third-party/libstudxml/CMakeFiles/ALL_BUILD.dir

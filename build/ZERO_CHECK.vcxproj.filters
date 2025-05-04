@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\OneDrive - Tally Solutions Pvt. Ltd\Desktop\personal\xlnt\xlnt\build\CMakeFiles\099522ba7fb1f80a7cbf3858a94a18f2\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{2D9C3838-971A-34ED-8593-07A4491F3998}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

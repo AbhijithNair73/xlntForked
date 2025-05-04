@@ -1,0 +1,10 @@
+^D:\ONEDRIVE - TALLY SOLUTIONS PVT. LTD\DESKTOP\PERSONAL\XLNT\XLNT\BUILD\CMAKEFILES\099522BA7FB1F80A7CBF3858A94A18F2\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SD:/OneDrive - Tally Solutions Pvt. Ltd/Desktop/personal/xlnt/xlnt" "-BD:/OneDrive - Tally Solutions Pvt. Ltd/Desktop/personal/xlnt/xlnt/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "D:/OneDrive - Tally Solutions Pvt. Ltd/Desktop/personal/xlnt/xlnt/build/xlnt_all.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

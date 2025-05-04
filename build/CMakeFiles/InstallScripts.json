@@ -1,0 +1,9 @@
+{
+	"InstallScripts" : 
+	[
+		"D:/OneDrive - Tally Solutions Pvt. Ltd/Desktop/personal/xlnt/xlnt/build/cmake_install.cmake",
+		"D:/OneDrive - Tally Solutions Pvt. Ltd/Desktop/personal/xlnt/xlnt/build/source/cmake_install.cmake",
+		"D:/OneDrive - Tally Solutions Pvt. Ltd/Desktop/personal/xlnt/xlnt/build/source/third-party/libstudxml/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
